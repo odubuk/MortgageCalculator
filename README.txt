@@ -1,3 +1,3 @@
-This page is currently a work in progress.  It can be accessed at the link below:
+THIS PAGE IS CURRENTLY A WORK IN PROGRESS.  IT CAN BE ACCESSED AT THE LINK BELOW:
 
-https://odubuk.github.io/MortgageCalculator/
+HTTPS://ODUBUK.GITHUB.IO/MORTGAGECALCULATOR/
