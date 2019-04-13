@@ -1,3 +1,8 @@
+$( document ).ready(function() {
+    console.log( "Welcome!  This page is a work in progress!" );
+    alert("Welcome!  This page is a work in progress!");
+});
+
 var term;
 var apr;
 var amt;
